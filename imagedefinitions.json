@@ -1,6 +1,6 @@
 [
    {
          "name": "nginx",
-         "imageUri": "796801251202.dkr.ecr.us-east-1.amazonaws.com/nginx:latest"
+         "imageUri": "565727682357.dkr.ecr.ap-south-1.amazonaws.com/ecr_nginx:latest"
    }
 ]
